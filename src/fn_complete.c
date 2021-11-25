@@ -53,7 +53,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #define NEED_REDEFINE__CRT__NO_INLINE
 #endif
 #endif
-#include <Strsafe.h>
+#include <strsafe.h>
 #ifdef NEED_REDEFINE__CRT__NO_INLINE
 #define __CRT__NO_INLINE
 #endif

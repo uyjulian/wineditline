@@ -68,6 +68,9 @@ typedef struct _hist_state {
   int flags;
 } HISTORY_STATE;
 
+#ifdef __cplusplus
+extern "C" {
+#endif
 
 /*
 prototypes of functions which may be
